@@ -1,4 +1,4 @@
-class Recent_activities:
+class RecentActivities:
     def __init__(self, hours_per_biweekly, product):
         self.__hours_per_biweekly = hours_per_biweekly
         self.__product = product
