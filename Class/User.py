@@ -10,3 +10,5 @@ class User:
         self.__following = following
         self.__comments = comments
         self._game_playing = game_playing
+    def method():
+        pass
